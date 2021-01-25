@@ -25,7 +25,7 @@ learner and have great passion fortechnology and gadgets.😈</h3>
 <p align="center">
 <a href="https://twitter.com/SparshKishore" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="@SparshKishore" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/sparsh-kishore-kumar/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="https://www.linkedin.com/in/sparsh-kishore-kumar/" height="30" width="30" /></a>
-<a href="https://instagram.com/akash_mittal18" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="akash_mittal18" height="30" width="30" /></a>
+<a href="https://www.instagram.com/sparsh.industries/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="https://www.instagram.com/sparsh.industries/" height="30" width="30" /></a>
 <a href="mailto:sparsh308@gmail.com" target="blank"><img align="center"  src="https://img.icons8.com/color/48/000000/gmail.png" alt="akash.mittal898" height="30" width="30" /></a>
 <a href="https://medium.com/@sparsh308" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/medium-monogram.png" alt="akashmittal18" height="30" width="30" /></a>  
 <a href="https://dev.to/sparsh308" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sparsh's DEV Profile" height="30" width="30">
