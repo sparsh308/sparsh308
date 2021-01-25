@@ -5,7 +5,7 @@ learner and have great passion fortechnology and gadgets.😈</h3>
 
 <h4 align="center">I am an Under-Grad Student at Graphic Era University, pursuing a Bachelor's in Computer Science.I love to learn and contribute in any and every possible way.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmittal18" alt="akashmittal18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh308" alt="sparsh308" /> </p>
 
 - 🌱 I’m currently learning **Software development , Web Technologies ,Flutter, React, Mobile App development Competetive Programming, DS and Algo **
 
