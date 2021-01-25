@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Kishore Kumar</h1>
 <h3 align="center">A highly motivated individual with a passion for constantly developing skills and
 growing professionally. I thrive for creativity, Innovation and aesthetics,I am a fast
-learner and have great passion fortechnology and gadgets.😈</h3>
+learner and have great passion for technology and gadgets.😈</h3>
 
 <h4 align="center">I am an Under-Grad Student at Graphic Era University, pursuing a Bachelor's in Computer Science.I love to learn and contribute in any and every possible way.</h4>
 
