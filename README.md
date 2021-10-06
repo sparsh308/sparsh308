@@ -3,7 +3,7 @@
 growing professionally. I thrive for creativity, Innovation and aesthetics,I am a fast
 learner and have great passion for technology and gadgets.😈</h3>
 
-<h4 align="center">I am an Under-Grad Student at Graphic Era University, pursuing a Bachelor's in Computer Science.I love to learn and contribute in any and every possible way.</h4>
+<h4 align="center">I am a Computer Science Engineering Graduate from Graphic Era University.I love to learn and contribute in any and every possible way just want to enjoy the technology   The Product i make is like a child to me.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh308" alt="sparsh308" /> </p>
 
