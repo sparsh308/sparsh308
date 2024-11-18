@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Engineer | IoT Enthusiast | Java Backend Developer</h2>
 
 <h3 align="center">I thrive on creativity, Innovation, and aesthetics branding, I am a fast
-learner and have a great passion for technology and gadgets. (100 % sure) 😈     update = (I just want to live a happy life) </h3>
+learner and have a great passion for technology and gadgets. (100 % sure) 😈  </h3>
 
 Cloud Engineer | IoT Enthusiast | Java Backend Developer
 
